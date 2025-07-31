@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "fedeX:lib"
+
+    - path: "./test"
+      component: "fedeX:test:fedeX-test"
